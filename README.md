@@ -22,16 +22,8 @@ Weekly: 168 hours
 
 Example head and tail of the data:
 
-yaml
-Kopyala
-Düzenle
-Head:
-TARİH               | ÜRETİM | İTHALAT | İHRACAT | TÜKETİM
-2022-01-01 01:00:00 | 5016   | 31200.95| 353.34  | 31020.29
-...
+![image](https://github.com/user-attachments/assets/1a045033-0b5c-4fa8-8aa6-d863006e1afe)
 
-Tail:
-2025-03-12 00:00:00 | 10175  | 39085.15| 42.47   | 38532.23
 🧠 Models Used
 1. SARIMA
 A classical time series model incorporating seasonality (seasonal order = 24 hours).
