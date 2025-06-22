@@ -43,6 +43,9 @@ SARIMA	3014.65	0.56
 🔍 Attention Insights
 The attention visualization indicates that the most recent time steps (especially the last few hours in the 48-hour window) have the highest impact on the model’s prediction:
 
+![image](https://github.com/user-attachments/assets/b53dc0fd-270f-4ef7-b76b-cde4691be359)
+
+
 
 This shows the AT-LSTM model is capable of identifying and leveraging short-term temporal patterns effectively.
 
